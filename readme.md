@@ -6,6 +6,8 @@ This is a simple movie recommender system built using Python and Streamlit. The 
 
 ## Data
 
+>- [Link to Datasets](https://grouplens.org/datasets/movielens/latest/)
+
 The data used for building this system is taken from two CSV files - movies.csv and ratings.csv. The movies.csv file contains information about movies, such as movie ID, title, and genre. The ratings.csv file contains movie ratings provided by different users.
 
 ## How it Works
