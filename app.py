@@ -32,6 +32,9 @@ def get_similar_movies(movie_title, cosine_sim, ratings_matrix):
     movie_indices = [i[0] for i in movie_scores]
     return movie_indices
 
+
+
+#######################################
 # Streamlit app
 st.title('Movie Recommender System')
 
