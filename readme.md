@@ -30,4 +30,4 @@ You can install the following dependencies using ```pip install <dependency>``` 
 
 ## How to Run
 
-To run the recommender system, navigate to the project directory in the command prompt and type ```bash streamlit run app.py```. This will start the Streamlit app in your default browser.
+To run the recommender system, navigate to the project directory in the command prompt and type ```streamlit run app.py```. This will start the Streamlit app in your default browser.
