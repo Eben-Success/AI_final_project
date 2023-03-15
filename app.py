@@ -14,6 +14,7 @@ image = Image.open('stars-movie.jpg')
 movie_ratings = pd.merge(movies, ratings)
 
 # Create pivot table
+# Makes it easier to analyze the data and compare how users rated different movies.
 ratings_matrix = movie_ratings.pivot_table(index='userId', columns='title', values='rating')
 
 # Fill NaN values with 0
