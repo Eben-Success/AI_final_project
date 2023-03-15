@@ -21,7 +21,7 @@ A function is defined to get the top 10 similar movies to the selected movie. Th
 ## Requirements
 This project requires the following Python libraries to be installed:
 
-- You can install the following dependencies using ```pip install <dependency>``` <br>
+You can install the following dependencies using ```pip install <dependency>``` <br>
 
 ```streamlit``` <br>
 ```pandas``` <br>
