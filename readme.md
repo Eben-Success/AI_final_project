@@ -1,10 +1,10 @@
 <hr>
 
-## _**Group 23: Team Beta**_
+# _**Group 23: Team Beta**_
 
 <hr>
 
-# Movie Recommender System
+## Movie Recommender System
 
 ![image info](./stars-movie.jpg)
 
