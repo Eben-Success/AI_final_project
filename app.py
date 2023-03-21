@@ -4,8 +4,8 @@ from PIL import Image
 from sklearn.metrics.pairwise import cosine_similarity
 
 # Load data
-movies = pd.read_csv('movies.csv')
-ratings = pd.read_csv('ratings.csv')
+movies = pd.read_csv('./data/movies.csv')
+ratings = pd.read_csv('./data/ratings.csv')
 
 # Load Image
 image = Image.open('stars-movie.jpg')
